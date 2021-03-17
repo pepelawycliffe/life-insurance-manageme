@@ -21,9 +21,15 @@ Assuming **XAMPP** is already installed in your local machine
 3. import the **lims.sql** file provided in **database backup** folder
 4. Go to http://localhost if you see a login page, it is working
 
-## DEMO
-This project is hosted at https://lims.nafisulbari.com for you to play with.
+
+
 
 Username: 555 
 
 Password: 666
+## DEMO
+<img src="https://github.com/pepelawycliffe/life-insurance-manageme/blob/main/1.png">
+<img src="https://github.com/pepelawycliffe/life-insurance-manageme/blob/main/2.png">
+<img src="https://github.com/pepelawycliffe/life-insurance-manageme/blob/main/3.png">
+<img src="https://github.com/pepelawycliffe/life-insurance-manageme/blob/main/4.png">
+<img src="https://github.com/pepelawycliffe/life-insurance-manageme/blob/main/5.png">
